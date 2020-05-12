@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: SpringBootRedisExample
+
+  redis:
+    host: localhost
+    port: 6379
+
+redis:
+  timeOut: 5000
